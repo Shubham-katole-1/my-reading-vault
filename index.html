@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Media Vault</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#0f1115] text-[#e1e7ef] min-h-screen p-6">
+
+  <header class="mb-6 border-b border-[#1f293d] pb-4 flex flex-col md:flex-row justify-between items-center gap-4">
+    <h1 class="text-2xl font-extrabold text-blue-500 tracking-wider uppercase">My Personal Vault</h1>
+    <input 
+      type="text" 
+      id="searchInput" 
+      placeholder="Search titles..." 
+      class="bg-[#161b26] border border-[#20293a] px-4 py-2 rounded-md text-sm text-white w-full md:w-64 focus:outline-none focus:border-blue-500"
+    />
+  </header>
+
+  <!-- Category Tabs -->
+  <div class="flex gap-2 mb-4 overflow-x-auto pb-2" id="categoryContainer"></div>
+
+  <!-- Genre Chips -->
+  <div class="flex gap-2 mb-6 flex-wrap" id="genreContainer"></div>
+
+  <!-- Cards Grid -->
+  <div class="grid grid-cols-[repeat(auto-fill,minmax(180px,1fr))] gap-5" id="mediaGrid"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
