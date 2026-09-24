@@ -4,26 +4,69 @@
     "title": "Nano Machine",
     "category": "Manhwa",
     "genre": "Murim",
+    "status": "Ongoing",
     "progress": "Ch. 210",
     "rating": "5.0",
-    "img": "https://via.placeholder.com/200x270/1e293b/ffffff?text=Nano+Machine"
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=Nano+Machine"
   },
   {
     "id": 2,
-    "title": "Return of Mount Hua Sect",
+    "title": "Solo Leveling",
     "category": "Manhwa",
-    "genre": "Murim",
-    "progress": "Ch. 140",
-    "rating": "4.9",
-    "img": "https://via.placeholder.com/200x270/1e293b/ffffff?text=Mount+Hua"
+    "genre": "Overpowered",
+    "status": "Completed",
+    "progress": "Ch. 179",
+    "rating": "5.0",
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=Solo+Leveling"
   },
   {
     "id": 3,
+    "title": "Return of the Mount Hua Sect",
+    "category": "Manhwa",
+    "genre": "Genius MC",
+    "status": "Ongoing",
+    "progress": "Ch. 140",
+    "rating": "4.9",
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=Mount+Hua"
+  },
+  {
+    "id": 4,
+    "title": "The Greatest Estate Developer",
+    "category": "Manhwa",
+    "genre": "Crazy MC",
+    "status": "Ongoing",
+    "progress": "Ch. 160",
+    "rating": "5.0",
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=Estate+Developer"
+  },
+  {
+    "id": 5,
+    "title": "Pick Me Up, Infinite Gacha",
+    "category": "Manhwa",
+    "genre": "Dungeons",
+    "status": "Ongoing",
+    "progress": "Ch. 95",
+    "rating": "4.8",
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=Infinite+Gacha"
+  },
+  {
+    "id": 6,
+    "title": "Omniscient Reader's Viewpoint",
+    "category": "Novel",
+    "genre": "Dark Fantasy",
+    "status": "Completed",
+    "progress": "Ch. 551",
+    "rating": "5.0",
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=ORV+Novel"
+  },
+  {
+    "id": 7,
     "title": "Your Name",
     "category": "Movie",
-    "genre": "Romance",
+    "genre": "Drama",
+    "status": "Completed",
     "progress": "106 min",
     "rating": "5.0",
-    "img": "https://via.placeholder.com/200x270/1e293b/ffffff?text=Your+Name"
+    "img": "https://via.placeholder.com/300x420/121721/3b82f6?text=Your+Name"
   }
 ]
