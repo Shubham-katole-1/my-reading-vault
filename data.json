@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Nano Machine",
+    "category": "Manhwa",
+    "genre": "Murim",
+    "progress": "Ch. 210",
+    "rating": "5.0",
+    "img": "https://via.placeholder.com/200x270/1e293b/ffffff?text=Nano+Machine"
+  },
+  {
+    "id": 2,
+    "title": "Return of Mount Hua Sect",
+    "category": "Manhwa",
+    "genre": "Murim",
+    "progress": "Ch. 140",
+    "rating": "4.9",
+    "img": "https://via.placeholder.com/200x270/1e293b/ffffff?text=Mount+Hua"
+  },
+  {
+    "id": 3,
+    "title": "Your Name",
+    "category": "Movie",
+    "genre": "Romance",
+    "progress": "106 min",
+    "rating": "5.0",
+    "img": "https://via.placeholder.com/200x270/1e293b/ffffff?text=Your+Name"
+  }
+]
